@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba941abc-78db-4a8b-ad03-d4a9cddfd022" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/images/London.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Los Angeles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/New York.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Paris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Rio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Roma.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jQNUzpvvTjJaO9i6X4v93DkDcr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba941abc-78db-4a8b-ad03-d4a9cddfd022" name="Default Changelist" comment="" />
+      <created>1603732376982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603732376982</updated>
+      <workItem from="1603732378218" duration="56373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="50" key="FileChooserDialogImpl" timestamp="1604575753825">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="50" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604575753825" />
+    <state x="458" y="221" key="Github.ShareDialog" timestamp="1604506025639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="221" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604506025639" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1603732607196">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603732607196" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1603800876901">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1603800876901" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604506060839">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604506060839" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604566663687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604566663687" />
+    <state x="91" y="0" key="new project wizard" timestamp="1604575762936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1604575762936" />
+    <state x="617" y="154" key="run.anything.popup" timestamp="1604416391722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="617" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1604416391722" />
+    <state x="447" y="32" width="672" height="678" key="search.everywhere.popup" timestamp="1603888709051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="447" y="32" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603888709051" />
+  </component>
+</project>
